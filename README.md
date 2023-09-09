@@ -1,2 +1,2 @@
 # Spanish-language
-Mainn verbs conjugation
+Main verbs conjugation
